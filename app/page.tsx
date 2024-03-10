@@ -14,7 +14,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{" "}
+            By Yield Protocol{" "}
             <Image
               src="/yield.svg"
               alt="Yield Icon"
